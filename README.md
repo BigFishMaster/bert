@@ -5,7 +5,6 @@
 
 We have made two new BERT models available:
 
-
 *   **[`BERT-Base, Multilingual`](https://storage.googleapis.com/bert_models/2018_11_03/multilingual_L-12_H-768_A-12.zip)**:
     102 languages, 12-layer, 768-hidden, 12-heads, 110M parameters
 *   **[`BERT-Base, Chinese`](https://storage.googleapis.com/bert_models/2018_11_03/chinese_L-12_H-768_A-12.zip)**:
